@@ -8,3 +8,8 @@
     
     internal method:
     sequence.createTrack();
+    
+58. I see that is switches classes it went from TuneCreator to SimpleTune to Note
+    For the local variable we see the note it is supposed to play
+    You also see all the methods that are called 
+    It shows how a note is added to the tune                     
